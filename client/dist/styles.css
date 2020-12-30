@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #14171A;
+  color: #00ffb3;
+}
+
+#app {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+.movies {
+ list-style-type: none;
+   padding: 10px;
+  font-size: 15px;
+   justify-content: space-between;
+   font-weight: 300;
+   margin: 20px 0 0;
+
+
+}

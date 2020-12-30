@@ -1,0 +1,8 @@
+
+
+comparison of mongodb to sql
+
+can we reference docs for syntax
+
+how do I get rid of these deprecation errors so i can see my console logs lol
+
