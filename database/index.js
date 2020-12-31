@@ -27,4 +27,5 @@ let movieSchema = mongoose.Schema({
 let movie = mongoose.model('Movie', movieSchema);
 
 let Soul = new movie
+
 module.exports = movie;
